@@ -1,0 +1,6 @@
+2023-08-26 16:45:55,198 INFO com.telegram.springPechenBot.SpringPechenBotApplicationTests [main] Starting SpringPechenBotApplicationTests using Java 20.0.2 with PID 15616 (started by 6ak4a in C:\Users\6ak4a\IdeaProjects\springPechenBot\springPechenBot)
+2023-08-26 16:45:55,199 INFO com.telegram.springPechenBot.SpringPechenBotApplicationTests [main] No active profile set, falling back to 1 default profile: "default"
+2023-08-26 16:45:56,954 INFO com.telegram.springPechenBot.SpringPechenBotApplicationTests [main] Started SpringPechenBotApplicationTests in 2.1 seconds (process running for 3.917)
+2023-08-26 16:59:57,488 INFO com.telegram.springPechenBot.SpringPechenBotApplicationTests [main] Starting SpringPechenBotApplicationTests using Java 20.0.2 with PID 2832 (started by 6ak4a in C:\Users\6ak4a\IdeaProjects\springPechenBot\springPechenBot)
+2023-08-26 16:59:57,491 INFO com.telegram.springPechenBot.SpringPechenBotApplicationTests [main] No active profile set, falling back to 1 default profile: "default"
+2023-08-26 16:59:59,107 INFO com.telegram.springPechenBot.SpringPechenBotApplicationTests [main] Started SpringPechenBotApplicationTests in 1.967 seconds (process running for 3.142)
